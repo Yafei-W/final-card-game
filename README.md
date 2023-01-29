@@ -25,7 +25,7 @@ Start-up screen showing player connection options:
 
 Playing card configuration;
 
-![CardConfiguration](https://user-images.githubusercontent.com/63798176/154863783-198eb763-54fa-44ee-b009-8edf22ec66bf.jpg)
+![CardConfiguration](https://user-images.githubusercontent.com/63798176/215358517-8fc051cb-7432-41d3-b93d-45b92b8195f6.jpg)
 
 Three person card game:
 

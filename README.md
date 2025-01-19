@@ -13,7 +13,7 @@ The latest binaries can be downloaded from the following locations:
 - From pCloud at http://u.pc.cd/1pi;
 - From Baidu at https://pan.baidu.com/s/1ta-cj93XJzXRw8gdtAU9nA?pwd=h3qf with code "h3qf".
 
-The binaries are packaged with Oracle Java 17. Download the zip file of your platform, unzip and run the FinalCardGame script under the bin folder . Once the program starts, click on the "Menu" button to access a pop-up menu. Select "Help", then "Getting Started" and "The App" for further instructions.
+The binaries are packaged with Oracle Java 21. Download the zip file of your platform, unzip and run the FinalCardGame script under the bin folder . Once the program starts, click on the "Menu" button to access a pop-up menu. Select "Help", then "Getting Started" and "The App" for further instructions.
 
 Note that this is a closed-source project. Only releases are available.
 
